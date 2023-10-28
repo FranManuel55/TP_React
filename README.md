@@ -28,4 +28,4 @@ If you are developing a production application, we recommend updating the config
 
 
 
-Link a vercel: https://vercel.com/facundo-espinolas-projects/tp-react-espinola-9yjb
+Link a vercel: 
